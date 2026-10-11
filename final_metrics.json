@@ -1,0 +1,10 @@
+{
+    "model": "Tuned Logistic Regression",
+    "accuracy": 0.7687074829931972,
+    "precision": 0.38202247191011235,
+    "recall": 0.723404255319149,
+    "f1_score": 0.5,
+    "roc_auc": 0.7985183909036093,
+    "test_samples": 294,
+    "positive_class": "Yes (employee left)"
+}
